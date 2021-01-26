@@ -1,4 +1,4 @@
-class Vehicle
+class Vehicle #Super Class
   attr_accessor :wheel_size, :wheel_number
 
   def initialize(wheel_size, wheel_number)
@@ -16,5 +16,4 @@ class Vehicle
     "filling up!"
   end
   #common vehicle behaviour
-
 end
