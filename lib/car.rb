@@ -3,5 +3,5 @@ require_relative "./vehicle.rb"
 
 class Car < Vehicle
   # < shows this class inherits from the Vehicle class
- 
+
 end
