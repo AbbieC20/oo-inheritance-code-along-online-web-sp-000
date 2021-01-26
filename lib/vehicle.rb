@@ -16,5 +16,5 @@ class Vehicle
     "filling up!"
   end
   #common vehicle behaviour
-  
+
 end
